@@ -5,6 +5,27 @@ Expense Management App
 ## Demo video
 https://www.youtube.com/watch?v=I0H54yfZBN4
 
+## Technologies used
+
+- Language : Javascript
+
+- FrameWork : React Native 0.64
+
+- Database: Firebase
+
+* expo - https://github.com/expo/expo
+
+* react-native - https://github.com/facebook/react-native
+
+* react-navigation - https://github.com/react-navigation/react-navigation
+
+* redux - https://github.com/reduxjs/redux
+
+* react-redux - https://github.com/reduxjs/react-redux
+
+* @react-native-firebase - https://github.com/invertase/react-native-firebase/tree/master
+* ...
+
 ## Nội dung
 
 1. [Chức năng](#chức-năng)
@@ -142,27 +163,6 @@ https://www.youtube.com/watch?v=I0H54yfZBN4
 <p align="center">
   <img src="screenshots/db.png" height = "600" width="800"> 
 </p>
-
-## Thư viện và công nghệ
-
-- Language : Javascript
-
-- FrameWork : React Native 0.64
-
-- Database: Firebase
-
-* expo - https://github.com/expo/expo
-
-* react-native - https://github.com/facebook/react-native
-
-* react-navigation - https://github.com/react-navigation/react-navigation
-
-* redux - https://github.com/reduxjs/redux
-
-* react-redux - https://github.com/reduxjs/react-redux
-
-* @react-native-firebase - https://github.com/invertase/react-native-firebase/tree/master
-* ...
 
 ## Tác giả
 
