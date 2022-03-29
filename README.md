@@ -1,6 +1,9 @@
-# Ứng dụng Honey Money
+# Honey Money
 
-Ứng dụng quản lý chi tiêu cá nhân.
+Expense Management App
+
+## Demo video
+https://www.youtube.com/watch?v=I0H54yfZBN4
 
 ## Nội dung
 
